@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎使用键鼠飞
 
 You can use the [editor on GitHub](https://github.com/Jiaminwei/KeyMouseFly/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
