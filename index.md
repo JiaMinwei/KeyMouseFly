@@ -1,6 +1,6 @@
 ## 欢迎使用键鼠飞
 
-[下载键鼠飞](https://github.com/MinweiChia/KeyMouseFly/archive/refs/heads/main.zip) 
+[下载键鼠飞](https://github.com/JiaMinwei/KeyMouseFly/archive/refs/heads/main.zip) 
 
 ### 联系方式与支持
 
