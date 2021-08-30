@@ -1,6 +1,6 @@
 ## 欢迎使用键鼠飞
 
-[下载键鼠飞](https://github.com/JiaMinwei/KeyMouseFly/archive/refs/heads/main.zip) 
+[下载键鼠飞](https://github.com/JiaMinwei/KeyMouseFly/releases/download/v1.0.0/KeyMouseFly-1.0.0_setup.exe) 
 
 ### 联系方式与支持
 
