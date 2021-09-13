@@ -6,6 +6,8 @@
 
 客服QQ：[1985768549](tencent://message?v=3&amp;uin=1985768549&amp;site=qq&amp;menu=yes)
 
+QQ交流群：[905659521](tencent://message?v=3&amp;uin=905659521&amp;site=qq&amp;menu=yes)
+
 开发者email：[minwindjia@163.com](mailto://minwindjia@163.com)
 
 反馈社区：[https://support.qq.com/products/348763](https://support.qq.com/products/348763)
